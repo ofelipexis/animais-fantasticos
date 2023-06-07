@@ -35,7 +35,7 @@
 }
 
 .ativo .modal {
-    animation: modal 3s forwards;
+    animation: modal .5s forwards;
 }
 
 [data-modal="close"] {
